@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The citie matrons, or, The three monementall mobbs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33189</idno>
+            <idno type="STC">Wing C4356</idno>
+            <idno type="STC">ESTC R19693</idno>
+            <idno type="EEBO-CITATION">12221714</idno>
+            <idno type="OCLC">ocm 12221714</idno>
+            <idno type="VID">56413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 135:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The citie matrons, or, The three monementall mobbs</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Date of publication stated: Printed in the yeer of womens honesty, MDCLIV.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56413:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:56413:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>THE CITIE MATRONS, Or the Three MONEMENTALL MOBBS.</p>
+            <q>
+               <l>Striving in Vice which ſhould excell,</l>
+               <l>To gain the Matro<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhip of Old <hi>Bridewell,</hi>
+               </l>
+               <l>Pleading their high deſerts in Speeches witty,</l>
+               <l>Which Traded beſt, for to enrich the City.</l>
+               <l>All Partyes heard, with moſt mature diſcretion,</l>
+               <l>She carried it, that did the moſt tranſgreſſion.</l>
+            </q>
+            <p>Printed in the Yeer of Womens honeſty. <add>Nou: 10</add> MDCLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:56413:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>THE CITIE MOBBS.</head>
+            <p>THere were ſeen this Week three Matron <hi>Polecats</hi> at the Committee for the Election of a Matron Go<g ref="char:EOLhyphen"/>verneſs of <hi>Bridewell,</hi> who all of them deſired the Place, as having deſerved well of this honorable City; the manner thus,</p>
+            <p>The Committee being ſet at the uſuall place, the Chair<g ref="char:EOLhyphen"/>man commanded the three Matrons to be called in, and no ſooner was the door open, but two ancient <hi>Beadles</hi> preſented<g ref="char:punc">▪</g> Miſtris <hi>Holland</hi> of the Leaguer, who making her courſey took up her ſtand; next followed <hi>Sarah Salsbu<g ref="char:EOLhyphen"/>ry</hi> preſented by <hi>Black Madge</hi> of the <hi>Bank-ſide,</hi> did the like and ſtood; Laſtly came <hi>Beſs Broughton</hi> ſupported by a Squir of the Body, did her duty alſo, and ſtood; Then be ſpake the <hi>Chair-man,</hi> and told them, This preſent meeting was to know who of them three had deſerved beſt of this Ho<g ref="char:EOLhyphen"/>norable City, that the party deſerving might be reward<g ref="char:EOLhyphen"/>ed with the Matron Governſhip of <hi>Bridewell.</hi> And then nodding to Miſtris <hi>Holland,</hi> bid her ſpeak for her ſelf, who lowly courſeying, ſaid, 
+
+<q>May it pleaſe your Worſhips, It is not unknown that for many years together; before the late great blood-letting of this Nation, I was a dweller in this Populous Ci<g ref="char:EOLhyphen"/>ty, and had my Caſtle well provided, where the hot bloods of all
+<pb n="3" facs="tcp:56413:2"/>
+                  <!-- PDF PAGE 92 -->ſorts reſorted to cool themſelves, Becauſe there was no Warrs but a little in the Low-Countrys, which was onely a Refuge for younger Brothers that had nothing to live upon at home, But thoſe whoſe fortunes were high ſwollen, and might enrich this Noble City in the ſpending thereof, I drew to my Caſtle, and ſhewed them hanſom Monkeys, fine Minions, rare Marmoſetts, Saint Antholme's <hi>Lecturers,</hi> ſainted Siſters, Country Girls Caſhier'd Chambermaids, renegado Wives, Ladies of Pleaſure Sporteers and ſtarc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d Exchangers, ſome of all ſorts with whom they mingled, and vaulted their fortunes away in the lapp of this City, which otherwiſe had ſin oaked out of their Chimney<g ref="char:EOLhyphen"/>topps in the Country, and fill'd the Nation with more people be<g ref="char:EOLhyphen"/>gotten on their Wives Chamber-maids &amp; <hi>Tenants Daughters,</hi> then the land could beare; Theſe Gallants (ſaid ſhe) by my Art inricht all the Tradeſmen of this City, as Taylors, Shooe-makers, Exchange-womens Husbands Cutlers, Feather-makers, Beaver<g ref="char:EOLhyphen"/>makers, Lace-makers, Button-ſellers, Gold-ſmiths, Perfumers, Belt-makers, Spurriers, and Laundreſſes, who thereby ſo in<g ref="char:EOLhyphen"/>creas'd the making of Sope and Starch, and inhanced the Pri<g ref="char:EOLhyphen"/>ces of them, that they became a Crown Revenue; Beſides the Vin<g ref="char:EOLhyphen"/>teners of my acquaintance grew to be Aldermens fellows, and the Cooks to be of the Common-Councell. Some poor Clergy-men fa<g ref="char:EOLhyphen"/>red the better, for by the private Chriſtenings I ſent them, they lived comfortably, which otherwiſe would have put ſome whole Parriſh to the Charge of a Lecter to maintain them. And in my flouriſhing time was built Covent-Garden, Queen-ſtreet, Clare-ſtreet, Long-Acre, <hi>and</hi> Bloomsbury, <hi>to the eternall enriching and ennobling of this City,</hi> for which reaſon I conceive (with your Worſhips favor) I have deſerved this preferrment in my old age, of you, and this Honorable City;</q>
+
+and then ſtood by.</p>
+            <p>Preſently came forth <hi>Sarah Salisbury,</hi> who making ve<g ref="char:EOLhyphen"/>ry humble obeyſance, began as followeth: 
+
+<q>Gentle-men, in this cauſe, I preſs the bolder my right of the Govern<g ref="char:EOLhyphen"/>ment of of this Society of <hi>Bridewell,</hi> which is now in your diſpoſing, Becauſe I came into the World dignifi'd for
+<pb n="4" facs="tcp:56413:3"/>
+                  <!-- PDF PAGE 93 -->Government, and have continued ſo from my Cradle; for my mother was a Midwife, and my father the Curate of the Pariſh; No ſooner was I 13. years old, but I was made a Chambermaid, where I took up my Miſtriſſe Son, and brought him to <hi>London,</hi> and here made him ſpend himſelf to his ſhirt, by which (as the former Gentlewoman ſaid) inrich'd many a Tavern, his and my acquaintance being able to make a Tavern rich ſuddenly, and break it again when we liſt; Beſides, going for man and Wife; all the beſt Lodgings in the Towne were the better for us, for we re<g ref="char:EOLhyphen"/>moved commonly every Week, and gave double rates. If I longed for ought, it muſt be had, many a ſingle diſh of Fiſh in <hi>Fiſh-ſtreet,</hi> between him and I only, hath coſt him 5. l. or 6. l. all which reckonings I inflamed, to the great benefit of the Fiſhmongers, which the former Gentlewo<g ref="char:EOLhyphen"/>man noted not, Alſo the <hi>Poulterers Wiues</hi> got new Gowns, if I lay but a <hi>Barne</hi> neer them: When for the good of this <hi>City</hi> I had utterly undone him, I took up an old rich <hi>
+                     <g ref="char:V">Ʋ</g>ſu<g ref="char:EOLhyphen"/>rer,</hi> and carried him from ſtreet to ſtreet, where I made him ſpend ſo profuſely, that I was Courted of all the Neighbours, as if I had the <hi>Indies</hi> in a Bagg; I made him give to poor handſome Children where ever I came, Gowns, Coats, Hatts, Dreſſes, and Money when I pleaſed: for tis great weakneſs in Woman to have any mercy of the Purſes of thoſe who make uſe of their Bodies; when I had ſqueez'd him dry, I ſhook him off, and ſnatch'd up a Fidler that had got ſtore of Money, and quickly put his Purſe out of Tune, threw him off, and then catch'd up a Yeoman of the Guard, I lifted him from place to place, to the great benefit of this <hi>City,</hi> till he fell down and roſe no more; Then I took up a Factor of the <hi>Eaſt Indies,</hi> that had cozened the <hi>Company</hi> of much Gold, Jewells, and Druggs, which I made him caſt away freely in the Plea<g ref="char:EOLhyphen"/>ſures of this <hi>City,</hi> and when 'twas all gone, I ſent him thi<g ref="char:EOLhyphen"/>ther again for more. Then I hooked in two <hi>Players,</hi> one
+<pb n="5" facs="tcp:56413:3"/>
+                  <!-- PDF PAGE 93 -->after another, till I made them pawn their Wives cloaths, and ſell the <hi>ſtocks</hi> of their <hi>Houſe.</hi> And when game grew ſcarce, I flew over ſea, and ſnatch'd up a <hi>Brother of the Sword,</hi> and brought him hither, and made him ſpend in this <hi>City</hi> all that he had got in the two firſt <hi>Northerne Exxpeditions,</hi> and at laſt, pawn his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uff Goat. Laſt of all, I catch'd up a Parſon (with a <hi>Carret-beard</hi>) who had been twenty years a getter, and in leſſe then two, I made him leave it all in this <hi>City,</hi> then I brought him to the <hi>Coun<g ref="char:EOLhyphen"/>ter-Gate,</hi> and there left him, After theſe, I took up onely for a day or two, or three above a 1000 others, whoſe Names I know not, as <hi>Atturneys, Solicitors, Lawyers Clerks,</hi> and <hi>Forreiners,</hi> as <hi>Lacquies, French Taylors, Perriwigg-makers</hi> and <hi>Perfumers</hi> of <hi>Paris,</hi> or indeed any Strangers whom in<g ref="char:EOLhyphen"/>deed I never let goe from me with a penny in their pock<g ref="char:EOLhyphen"/>ets, or any good things they had to pawn, all which I cauſed to be conſumed for the benefit of this <hi>Ci<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> in the Recreations thereof, which is very well known to many of my acquaintance, whoſe teſtimony (if need were) I could bring; I ſhall therefore deſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e your favours in the buſineſſe before you, hoping I have deſerved this Gover<g ref="char:EOLhyphen"/>ment of <hi>Bridewel</hi> better then the former Gentlewoman;</q>
+and then making another low <hi>Curſey,</hi> ſtood ſtill.</p>
+            <p>Then ſaid <hi>Beſs Broughton,</hi>
+
+               <q>
+                  <p>I am before you this day, to ſhew what I have deſerved in this Noble <hi>City,</hi> that now in my old Age, I may live &amp; dye in ſome Worſhipfull Place thereof; And in Anſwer to what the two former Gentle<g ref="char:EOLhyphen"/>women ſaid, I onely ſay, I am <hi>Beſs Broughton,</hi> Alas, what have they ſaid for themſelves? the enriching onely of a few <hi>Trdesmen,</hi> which all of us doe of courſe, who have money to buy <hi>Clothes</hi> and Victualls; But knock't down whole Houſes, even of thoſe, whoſe great Eſtates made them wallow in the I uxn<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of this Noble <hi>City,</hi> for you ſhall know, when I had gotten (by the Magnet of my face) all the Gallants to reſort to me, I then bethought me
+<pb n="6" facs="tcp:56413:4"/>
+                     <!-- PDF PAGE 94 -->how to beſtow the whole courſe of my life for the good and welfare of this City; And if one of ſome Thouſands <hi>per Annum</hi> came to me, It coſt him a Hundred Pounds for a Nights Iodging, and ſuch a <hi>Nipp</hi> I gave him of my <hi>Win<g ref="char:EOLhyphen"/>cheſter Gooſe,</hi> that it laſted him ſome 30 or 40 Moneths, ſo the <hi>Scrievener,</hi> the <hi>Apothecary</hi> and the <hi>Doctor</hi> had a good Mannor of him by that time: If I met with a wanton Gal<g ref="char:EOLhyphen"/>lant, newly married, the <hi>Gooſe</hi> bitt him; he goes home to his Wife, gives it her, ſhe gives it to her Gentleman Uſher, he to the Chamber-maid, and ſhe, before her Maſter was fully cured, gave it him again; By this time my Gallant is greatly indebted to <hi>Doctors, Apothecaries</hi> &amp; <hi>Chyrurgeons,</hi> the <hi>Scrievener</hi> is ſent for, and his <hi>Dwelling-Houſe,</hi> with all the Lordſhip thereto belonging, is new-<hi>morgaged,</hi> and ne<g ref="char:EOLhyphen"/>ver redeemed till all be ſold to this Noble <hi>City.</hi> If I had ſeen a Country Gentleman come to Town to defend the payment of his <hi>Fathers</hi> Debts againſt ſome <hi>honeſt Citizen,</hi> I was ſure to have his Company, and then I gave him a <hi>Nipp</hi> with my <hi>Gooſe,</hi> which ſtuck ſo cloſe in his bones, that he never went down, till he had ſold the Land that was bound for the Debt, to the honeſt Citizen. Nay, I was ac<g ref="char:EOLhyphen"/>quainted with <hi>Monopolizers</hi> that had <hi>Patents</hi> from the <hi>Court,</hi> whoſe hides I ſo <hi>Nipt</hi> with my <hi>Gooſe,</hi> that they were forced to keep their Chambers, and ſell their <hi>Patents</hi> to <hi>honest Citizens,</hi> who grew rich by them.</p>
+                  <p>Beſides, I gave the taſte of my <hi>Gooſe</hi> to many Heires (that had younger Brothers out at Prentice in the City) ſo plentifully, that it deſtroyed them quite, ſo that the honeſt Aprentiſes became their Heires before they were out of their Time, which much advanced the Renown of this Noble <hi>City.</hi>
+                  </p>
+                  <p>If a Country Gentleman carried a <hi>Nipp</hi> of my <hi>Gooſe</hi> a Hundred Miles off into the Country, before it ſmarted you might have ſeen the next Terme him, and all the beſt of his Neighbours filling up our Neighbours the Appo<g ref="char:EOLhyphen"/>thecaries
+<pb n="7" facs="tcp:56413:4" rendition="simple:additions"/>
+                     <!-- PDF PAGE 94 -->houſes in <hi>Black-fryers</hi> or <hi>Bucklers Bury,</hi> and keep<g ref="char:EOLhyphen"/>ing ſiege there Foure or Five Termes, till they were known to all the <hi>Scrieveners</hi> in Town.</p>
+                  <p>Many hundred more of theſe things I have done, and I grow ſo famous by it, that in all <hi>England, France, Holland</hi> and <hi>Flanders,</hi> it was a Proverb,
+
+  <q>No Gooſe bitt ſo ſore as Beſs Broughtons.</q>
+
+Indeed, It did ſo much ſervice to this Noble <hi>City,</hi> that I dare boldly ſay, this <hi>City</hi> is Three Hundred thouſand Pounds the better for my ſervice and good will towards it; And therefore I hope I have deſerved better then theſe Gentlewomen that are but <hi>Pedlers</hi> to me. But that I muſt leave to your Worſhips Wiſdoms.</p>
+               </q>
+            </p>
+            <p>Then the <hi>Chair-man</hi> commanded the three Gentle<g ref="char:EOLhyphen"/>women to be taken forth, which done, couſultation was had for an houres ſpace, and then being all called in a<g ref="char:EOLhyphen"/>gain, He firſt asked Miſtris <hi>Holland,</hi> of what Church ſhee was?</p>
+            <p>
+               <hi>Who anſwered,</hi> A Presbyterian.</p>
+            <p>Then he asked <hi>Sarah Salisbury,</hi> of what Church ſhe was?</p>
+            <p>
+               <hi>Who anſwered,</hi> Sir, I am an Independent, for I was never married.</p>
+            <p>But when he came to <hi>Beſs Broughton,</hi> the <hi>Chair-man</hi> put off his Hat to-her, and ſaid, Miſtris <hi>Broughton,</hi> I will not queſtion what <hi>Church</hi> ye are of, But what did you mean when you talked of the <hi>Wincheſter Gooſe?</hi> Was it a <hi>French Winchester Gooſe</hi> you ſo uſed for the ſervice of this Hono<g ref="char:EOLhyphen"/>rable <hi>Citie?</hi>
+            </p>
+            <p>
+               <hi>She anſwered,</hi> Yea Sir, it was.</p>
+            <p>But had not you a <hi>Monopoly,</hi> or a <hi>Patent</hi> from the <hi>Court</hi> for that <hi>French Wincheſter Gooſe</hi>?</p>
+            <p>
+               <hi>But ſhe anſwered,</hi> Truely Sir, nay,</p>
+            <pb n="6" facs="tcp:56413:5"/>
+            <!-- PDF PAGE 95 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:56413:5"/>
+            <!-- PDF PAGE 95 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="8" facs="tcp:56413:6"/>
+               <!-- PDF PAGE 96 -->
+Nay, ſaid the Chairman, it was lawfull enough, ſo long as it was uſed for the good of the City. Therefore to you Miſtris <hi>Broughton</hi> is given the Matron Government of the Place for your life, as having beſt deſerved it.</p>
+            <p>Miſtris <hi>Holland,</hi> you ſhall have, as deſerving the ſecond Place, a Tythe paid you of all the <hi>Medlers</hi> growing with<g ref="char:EOLhyphen"/>in 15 Miles of <hi>Bow-bell.</hi>
+            </p>
+            <p>And for you Miſtris <hi>Sarah Salisbury,</hi> wee doe obliege one <hi>Titt,</hi> and two <hi>Cowes</hi> grazing on H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſlow-Heath, with which, and the help of much frequenting Sermons there<g ref="char:EOLhyphen"/>abouts, and a little Kitchin Phyſick, you may borrow up a liuing amongſt the the Ignorant Country People, till the death of Miſtris <hi>Holland,</hi> and then you ſhall have all the Tythe of the <hi>Medlers;</hi> which ſaid, they were diſmiſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <epigraph>
+               <q>
+                  <l>You Pleaſure Ladies, that live by ſporting,</l>
+                  <l>Your Knocking done, and paſt your Courting,</l>
+                  <l>Grown old with Age, or ſo P—y rotten,</l>
+                  <l>You cannot uſe the <hi>thing</hi> you wott-on,</l>
+                  <l>If your deſerts, above us <hi>Three</hi> excell,</l>
+                  <l>You may inherit (after us) <hi>Bridwell.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
